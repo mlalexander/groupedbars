@@ -1,0 +1,32 @@
+h1 {
+  font-size: 30px;
+  font: Helvetica;
+  color: #0f4c75;
+  font-weight:normal;
+}
+
+body {
+  font: 12px sans-serif;
+}
+
+footer {
+  font-size:10px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.chart {
+  height: 375px;
+}
+
+.xlabel{
+  font-size: 15px;
+}
